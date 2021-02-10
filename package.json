@@ -4,7 +4,7 @@
   "description": "This file file serves as your book's preface, a great place to describe your book's content and ideas.",
   "main": "index.js",
   "scripts": {
-    "build": "gitbook build ./content ./docs"
+    "build": "gitbook build --output=./docs"
   },
   "repository": {
     "type": "git",
