@@ -1,0 +1,20 @@
+{
+        "plugins": [
+                "alerts",
+                "code",
+                "theme-comscore",
+                "back-to-top-button",
+                "expandable-chapters",
+                "etoc",
+                "mermaid",
+                "mermaid-gb3"
+        ],
+        "pluginsConfig": {
+                "theme-default": {
+                        "showLevel": true
+                },
+                "lunr": {
+            "maxIndexSize": 200000
+        }
+        }
+}
